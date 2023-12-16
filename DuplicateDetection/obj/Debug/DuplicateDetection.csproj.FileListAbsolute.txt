@@ -1,0 +1,48 @@
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\bin\Debug\DuplicateDetection.exe.config
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\bin\Debug\DuplicateDetection.exe
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\bin\Debug\DuplicateDetection.pdb
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.AssemblyReference.cache
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.SuggestedBindingRedirects.cache
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Classification.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.CountProbabilities.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Mainform.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.OnlineTweets.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Properties.Resources.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.splash.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.TextPreprocessing.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.TrainFrm.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.GenerateResource.cache
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.CoreCompileInputs.cache
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.exe
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.pdb
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Form1.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.FrmClassification.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.FrmTrain.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.MenuFrm.resources
+D:\Manish\Projects\2022-23\Duplication of news articles\DuplicateDetectionTextandImage\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.CopyComplete
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\bin\Debug\DuplicateDetection.exe.config
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\bin\Debug\DuplicateDetection.exe
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\bin\Debug\DuplicateDetection.pdb
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.AssemblyReference.cache
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.SuggestedBindingRedirects.cache
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Classification.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.CountProbabilities.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Form1.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.FrmClassification.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.FrmTrain.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Mainform.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.MenuFrm.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.OnlineTweets.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Properties.Resources.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.splash.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.TextPreprocessing.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.TrainFrm.resources
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.GenerateResource.cache
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.CoreCompileInputs.cache
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.csproj.CopyComplete
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.exe
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.pdb
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\bin\Debug\itextsharp.dll
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\bin\Debug\itextsharp.xml
+E:\Final Year Project\final is final\DuplicateDetection\DuplicateDetection\DuplicateDetection\obj\Debug\DuplicateDetection.Form2.resources
